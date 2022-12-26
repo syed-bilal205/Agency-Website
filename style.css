@@ -496,6 +496,9 @@ header .close{
     cursor: pointer;
     z-index: 999;
 }
+.mobileNavbar{
+    display: none;
+}
 .mobileIcon[name='close-outline']{
     display: none;
 }
